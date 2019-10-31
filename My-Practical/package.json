@@ -14,5 +14,18 @@
     "morgan": "~1.9.1",
     "mysql": "^2.17.1",
     "nodemon": "^1.19.4"
-  }
+  },
+  "description": "CRUD (Create, Run, Update, Delete) created in NodeJS",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Audwinnn/My-Practical.git"
+  },
+  "author": "Audouin C. Bulanhagui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Audwinnn/My-Practical/issues"
+  },
+  "homepage": "https://github.com/Audwinnn/My-Practical#readme"
 }
